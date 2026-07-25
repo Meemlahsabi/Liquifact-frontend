@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "a11y/upload-31-motion",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "a11y/upload-31-motion": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "a11y/upload-31-motion",
+    "origin"
+  ]
+}
